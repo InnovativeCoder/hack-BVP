@@ -1,0 +1,663 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+ 
+		<AqIndex> 
+ 
+		<Country id='India' > 
+<State id='Andhra Pradesh'>
+<City id='Rajamahendravaram'>
+<Station id='Anam Kala Kendram - APPCB' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='NH3' Min='1' Max='8' Avg='4' unit='' />
+<Pollutant id='PM2.5' Min='4' Max='40' Avg='17' unit='µg/m3	' />
+<Pollutant id='CO' Min='29' Max='96' Avg='48' unit='mg/m3' />
+<Pollutant id='NO2' Min='5' Max='44' Avg='21' unit='µg/m3' />
+<Pollutant id='SO2' Min='5' Max='11' Avg='8' unit='µg/m3' />
+<Pollutant id='PM10' Min='9' Max='50' Avg='24' unit='µg/m3' />
+<Pollutant id='O3' Min='11' Max='47' Avg='37' unit='µg/m3' />
+</Station>
+</City> 
+<City id='Tirupati'>
+<Station id='Tirumala-APPCB' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='SO2' Min='1' Max='12' Avg='7' unit='µg/m3' />
+<Pollutant id='CO' Min='13' Max='35' Avg='25' unit='mg/m3' />
+<Pollutant id='PM2.5' Min='1' Max='65' Avg='30' unit='µg/m3	' />
+<Pollutant id='O3' Min='18' Max='42' Avg='22' unit='µg/m3' />
+<Pollutant id='PM10' Min='12' Max='70' Avg='40' unit='µg/m3' />
+<Pollutant id='NO2' Min='41' Max='41' Avg='-1' unit='µg/m3' />
+</Station>
+</City> 
+<City id='Vijayawada'>
+<Station id='PWD Grounds - APPCB' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='SO2' Min='26' Max='33' Avg='26' unit='µg/m3' />
+<Pollutant id='O3' Min='5' Max='5' Avg='5' unit='µg/m3' />
+<Pollutant id='CO' Min='26' Max='48' Avg='27' unit='mg/m3' />
+<Pollutant id='PM10' Min='35' Max='105' Avg='63' unit='µg/m3' />
+<Pollutant id='NH3' Min='1' Max='2' Avg='2' unit='µg/m3' />
+<Pollutant id='NO2' Min='38' Max='78' Avg='58' unit='µg/m3' />
+<Pollutant id='PM2.5' Min='22' Max='62' Avg='-1' unit='µg/m3	' />
+</Station>
+</City> 
+<City id='Visakhapatnam'>
+<Station id='GVMC Ram Nagar-APPCB' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='CO' Min='18' Max='88' Avg='50' unit='mg/m3' />
+<Pollutant id='PM10' Min='34' Max='149' Avg='87' unit='µg/m3' />
+<Pollutant id='SO2' Min='7' Max='62' Avg='19' unit='µg/m3' />
+<Pollutant id='PM2.5' Min='3' Max='68' Avg='30' unit='µg/m3	' />
+<Pollutant id='O3' Min='2' Max='11' Avg='6' unit='µg/m3' />
+</Station>
+<Station id='APIIC Kancharapalem - APPCB' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='NO2' Min='5' Max='17' Avg='9' unit='µg/m3' />
+<Pollutant id='PM2.5' Min='11' Max='152' Avg='46' unit='µg/m3	' />
+<Pollutant id='CO' Min='23' Max='75' Avg='47' unit='mg/m3' />
+<Pollutant id='SO2' Min='3' Max='11' Avg='8' unit='µg/m3' />
+<Pollutant id='NH3' Min='1' Max='1' Avg='-1' unit='µg/m3' />
+<Pollutant id='O3' Min='5' Max='7' Avg='6' unit='µg/m3' />
+<Pollutant id='PM10' Min='24' Max='186' Avg='-1' unit='µg/m3' />
+</Station>
+</City> 
+</State> 
+<State id='Bihar'>
+<City id='Muzaffarpur'>
+<Station id='Muzaffarpur Collectorate - BSPCB' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='PM2.5' Min='8' Max='87' Avg='42' unit='µg/m3	' />
+<Pollutant id='NO2' Min='11' Max='27' Avg='16' unit='µg/m3' />
+<Pollutant id='O3' Min='2' Max='60' Avg='5' unit='µg/m3' />
+<Pollutant id='CO' Min='14' Max='53' Avg='31' unit='mg/m3' />
+<Pollutant id='SO2' Min='1' Max='136' Avg='9' unit='µg/m3' />
+</Station>
+</City> 
+<City id='Patna'>
+<Station id='IGSC Planetarium Complex - BSPCB' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='SO2' Min='4' Max='5' Avg='4' unit='µg/m3' />
+<Pollutant id='CO' Min='21' Max='103' Avg='46' unit='mg/m3' />
+<Pollutant id='O3' Min='2' Max='10' Avg='7' unit='µg/m3' />
+<Pollutant id='PM2.5' Min='13' Max='173' Avg='85' unit='µg/m3	' />
+<Pollutant id='NO2' Min='9' Max='47' Avg='23' unit='µg/m3' />
+</Station>
+</City> 
+</State> 
+<State id='Delhi'>
+<City id='Delhi'>
+<Station id='Shadipur' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='PM2.5' Min='147' Max='403' Avg='322' unit='µg/m3	' />
+<Pollutant id='NO2' Min='29' Max='35' Avg='31' unit='µg/m3' />
+<Pollutant id='O3' Min='7' Max='150' Avg='83' unit='µg/m3' />
+<Pollutant id='CO' Min='23' Max='108' Avg='35' unit='mg/m3' />
+<Pollutant id='SO2' Min='4' Max='25' Avg='12' unit='µg/m3' />
+</Station>
+<Station id='IHBAS' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='SO2' Min='1' Max='26' Avg='10' unit='µg/m3' />
+<Pollutant id='PM2.5' Min='43' Max='260' Avg='159' unit='µg/m3	' />
+<Pollutant id='CO' Min='5' Max='97' Avg='42' unit='mg/m3' />
+<Pollutant id='NH3' Min='12' Max='23' Avg='17' unit='mg/m3' />
+<Pollutant id='NO2' Min='27' Max='121' Avg='86' unit='µg/m3' />
+</Station>
+<Station id='NSIT Dwarka' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='CO' Min='1' Max='123' Avg='64' unit='mg/m3' />
+<Pollutant id='O3' Min='13' Max='54' Avg='20' unit='µg/m3' />
+<Pollutant id='SO2' Min='7' Max='18' Avg='10' unit='µg/m3' />
+<Pollutant id='PM2.5' Min='77' Max='350' Avg='266' unit='µg/m3	' />
+<Pollutant id='NO2' Min='28' Max='97' Avg='59' unit='µg/m3' />
+</Station>
+<Station id='Mandir Marg - DPCC' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='NO2' Min='33' Max='120' Avg='63' unit='µg/m3' />
+<Pollutant id='O3' Min='1' Max='48' Avg='24' unit='µg/m3' />
+<Pollutant id='CO' Min='34' Max='144' Avg='80' unit='mg/m3' />
+<Pollutant id='SO2' Min='3' Max='24' Avg='11' unit='µg/m3' />
+<Pollutant id='PM10' Min='71' Max='370' Avg='171' unit='µg/m3' />
+<Pollutant id='NH3' Min='1' Max='4' Avg='3' unit='µg/m3' />
+<Pollutant id='PM2.5' Min='63' Max='428' Avg='249' unit='µg/m3	' />
+</Station>
+<Station id='Anand Vihar - DPCC' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='SO2' Min='3' Max='97' Avg='30' unit='µg/m3' />
+<Pollutant id='CO' Min='34' Max='145' Avg='71' unit='mg/m3' />
+<Pollutant id='NO2' Min='27' Max='142' Avg='105' unit='µg/m3' />
+<Pollutant id='O3' Min='5' Max='96' Avg='22' unit='µg/m3' />
+<Pollutant id='NH3' Min='8' Max='24' Avg='18' unit='µg/m3' />
+<Pollutant id='PM10' Min='135' Max='500' Avg='361' unit='µg/m3' />
+<Pollutant id='PM2.5' Min='62' Max='412' Avg='294' unit='µg/m3	' />
+</Station>
+<Station id='R. K. Puram - DPCC' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='PM2.5' Min='90' Max='433' Avg='317' unit='µg/m3	' />
+<Pollutant id='PM10' Min='130' Max='456' Avg='272' unit='µg/m3' />
+<Pollutant id='SO2' Min='8' Max='90' Avg='50' unit='µg/m3' />
+<Pollutant id='NH3' Min='2' Max='10' Avg='8' unit='µg/m3' />
+<Pollutant id='CO' Min='20' Max='188' Avg='73' unit='mg/m3' />
+<Pollutant id='NO2' Min='42' Max='168' Avg='93' unit='µg/m3' />
+<Pollutant id='O3' Min='10' Max='301' Avg='167' unit='µg/m3' />
+</Station>
+<Station id='Punjabi Bagh - DPCC' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='NH3' Min='1' Max='6' Avg='4' unit='µg/m3' />
+<Pollutant id='PM2.5' Min='47' Max='380' Avg='269' unit='µg/m3	' />
+<Pollutant id='CO' Min='28' Max='136' Avg='65' unit='mg/m3' />
+<Pollutant id='NO2' Min='9' Max='177' Avg='120' unit='µg/m3' />
+<Pollutant id='SO2' Min='27' Max='103' Avg='57' unit='µg/m3' />
+<Pollutant id='PM10' Min='114' Max='445' Avg='269' unit='µg/m3' />
+<Pollutant id='O3' Min='20' Max='253' Avg='165' unit='µg/m3' />
+</Station>
+<Station id='ITO' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='PM2.5' Min='48' Max='334' Avg='216' unit='µg/m3	' />
+<Pollutant id='NO2' Min='40' Max='128' Avg='73' unit='µg/m3' />
+<Pollutant id='NH3' Min='3' Max='18' Avg='10' unit='µg/m3' />
+</Station>
+<Station id='DTU' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='PM2.5' Min='71' Max='446' Avg='297' unit='µg/m3	' />
+<Pollutant id='NO2' Min='14' Max='27' Avg='19' unit='µg/m3' />
+<Pollutant id='NH3' Min='6' Max='8' Avg='7' unit='µg/m3' />
+</Station>
+<Station id='Siri Fort' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='NH3' Min='9' Max='36' Avg='21' unit='µg/m3' />
+<Pollutant id='PM2.5' Min='100' Max='344' Avg='271' unit='µg/m3	' />
+<Pollutant id='NO2' Min='2' Max='90' Avg='-1' unit='µg/m3' />
+</Station>
+<Station id='Lodhi Road, Delhi - IMD' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='O3' Min='19' Max='100' Avg='55' unit='µg/m3' />
+<Pollutant id='CO' Min='24' Max='139' Avg='67' unit='mg/m3' />
+<Pollutant id='PM10' Min='105' Max='477' Avg='231' unit='µg/m3' />
+<Pollutant id='PM2.5' Min='11' Max='316' Avg='227' unit='µg/m3	' />
+<Pollutant id='NO2' Min='15' Max='31' Avg='20' unit='µg/m3' />
+</Station>
+<Station id='CRRI Mathura Road, Delhi - IMD' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='O3' Min='20' Max='92' Avg='22' unit='µg/m3' />
+<Pollutant id='PM2.5' Min='106' Max='420' Avg='289' unit='µg/m3	' />
+<Pollutant id='CO' Min='24' Max='67' Avg='65' unit='mg/m3' />
+<Pollutant id='PM10' Min='51' Max='286' Avg='115' unit='µg/m3' />
+<Pollutant id='NO2' Min='37' Max='47' Avg='40' unit='µg/m3' />
+</Station>
+<Station id='Pusa, Delhi - IMD' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='O3' Min='25' Max='70' Avg='45' unit='µg/m3' />
+<Pollutant id='CO' Min='84' Max='107' Avg='100' unit='mg/m3' />
+<Pollutant id='PM10' Min='93' Max='303' Avg='142' unit='µg/m3' />
+<Pollutant id='PM2.5' Min='52' Max='343' Avg='146' unit='µg/m3	' />
+<Pollutant id='NO2' Min='12' Max='12' Avg='12' unit='µg/m3' />
+</Station>
+<Station id='Burari Crossing, Delhi - IMD' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='NO2' Min='30' Max='34' Avg='30' unit='µg/m3' />
+<Pollutant id='CO' Min='82' Max='88' Avg='87' unit='mg/m3' />
+<Pollutant id='PM2.5' Min='22' Max='339' Avg='200' unit='µg/m3	' />
+<Pollutant id='O3' Min='25' Max='28' Avg='25' unit='µg/m3' />
+<Pollutant id='PM10' Min='3' Max='240' Avg='167' unit='µg/m3' />
+</Station>
+<Station id='Aya Nagar, Delhi - IMD' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='O3' Min='20' Max='137' Avg='79' unit='µg/m3' />
+<Pollutant id='NO2' Min='15' Max='28' Avg='23' unit='µg/m3' />
+<Pollutant id='PM2.5' Min='10' Max='356' Avg='245' unit='µg/m3	' />
+<Pollutant id='PM10' Min='11' Max='276' Avg='158' unit='µg/m3' />
+<Pollutant id='CO' Min='33' Max='74' Avg='41' unit='mg/m3' />
+</Station>
+<Station id='North Campus, Delhi - IMD' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='PM2.5' Min='104' Max='404' Avg='305' unit='µg/m3	' />
+<Pollutant id='O3' Min='28' Max='43' Avg='33' unit='µg/m3' />
+<Pollutant id='CO' Min='72' Max='94' Avg='85' unit='mg/m3' />
+<Pollutant id='PM10' Min='105' Max='232' Avg='170' unit='µg/m3' />
+<Pollutant id='NO2' Min='33' Max='43' Avg='39' unit='µg/m3' />
+</Station>
+<Station id='IGI Airport Terminal-3, Delhi - IMD' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='NO2' Min='24' Max='45' Avg='31' unit='µg/m3' />
+<Pollutant id='O3' Min='19' Max='190' Avg='176' unit='µg/m3' />
+<Pollutant id='PM10' Min='49' Max='174' Avg='124' unit='µg/m3' />
+<Pollutant id='CO' Min='34' Max='101' Avg='48' unit='mg/m3' />
+<Pollutant id='PM2.5' Min='55' Max='324' Avg='222' unit='µg/m3	' />
+</Station>
+</City> 
+</State> 
+<State id='Haryana'>
+<City id='Faridabad'>
+<Station id='Sector16A Faridabad' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='SO2' Min='3' Max='117' Avg='21' unit='µg/m3' />
+<Pollutant id='CO' Min='26' Max='103' Avg='54' unit='mg/m3' />
+<Pollutant id='O3' Min='3' Max='156' Avg='63' unit='µg/m3' />
+<Pollutant id='PM2.5' Min='48' Max='313' Avg='183' unit='µg/m3	' />
+<Pollutant id='NO2' Min='12' Max='32' Avg='22' unit='µg/m3' />
+</Station>
+</City> 
+<City id='Gurgaon'>
+<Station id='Vikas Sadan Gurgaon - HSPCB' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='NO2' Min='29' Max='32' Avg='31' unit='µg/m3' />
+<Pollutant id='SO2' Min='3' Max='18' Avg='9' unit='µg/m3' />
+<Pollutant id='PM2.5' Min='107' Max='238' Avg='187' unit='µg/m3	' />
+<Pollutant id='CO' Min='14' Max='60' Avg='42' unit='mg/m3' />
+<Pollutant id='O3' Min='2' Max='75' Avg='45' unit='µg/m3' />
+</Station>
+</City> 
+<City id='Panchkula'>
+<Station id='Sector 6 Panchkula - HSPCB' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='PM2.5' Min='69' Max='293' Avg='165' unit='µg/m3	' />
+<Pollutant id='NO2' Min='24' Max='27' Avg='25' unit='µg/m3' />
+<Pollutant id='O3' Min='16' Max='66' Avg='45' unit='µg/m3' />
+<Pollutant id='CO' Min='16' Max='72' Avg='27' unit='mg/m3' />
+<Pollutant id='SO2' Min='3' Max='27' Avg='8' unit='µg/m3' />
+</Station>
+</City> 
+<City id='Rohtak'>
+<Station id='MD University, Rohtak - HSPCB' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='SO2' Min='10' Max='10' Avg='-1' unit='µg/m3' />
+<Pollutant id='CO' Min='40' Max='42' Avg='41' unit='mg/m3' />
+<Pollutant id='O3' Min='22' Max='23' Avg='23' unit='µg/m3' />
+<Pollutant id='PM2.5' Min='66' Max='177' Avg='-1' unit='µg/m3	' />
+<Pollutant id='NO2' Min='22' Max='23' Avg='-1' unit='µg/m3' />
+</Station>
+</City> 
+</State> 
+<State id='Karnataka'>
+<City id='Bengaluru'>
+<Station id='BTM Layout' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='NO2' Min='16' Max='16' Avg='16' unit='µg/m3' />
+<Pollutant id='O3' Min='5' Max='9' Avg='7' unit='µg/m3' />
+<Pollutant id='SO2' Min='4' Max='6' Avg='5' unit='µg/m3' />
+<Pollutant id='CO' Min='1' Max='68' Avg='44' unit='mg/m3' />
+<Pollutant id='PM2.5' Min='15' Max='59' Avg='39' unit='µg/m3	' />
+</Station>
+<Station id='Peenya' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='SO2' Min='1' Max='13' Avg='6' unit='µg/m3' />
+<Pollutant id='NH3' Min='6' Max='7' Avg='7' unit='µg/m3' />
+<Pollutant id='PM2.5' Min='21' Max='76' Avg='49' unit='µg/m3	' />
+<Pollutant id='NO2' Min='27' Max='31' Avg='28' unit='µg/m3' />
+<Pollutant id='CO' Min='1' Max='183' Avg='153' unit='mg/m3' />
+</Station>
+<Station id='BWSSB Kadabesanahalli' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='SO2' Min='1' Max='7' Avg='2' unit='µg/m3' />
+<Pollutant id='CO' Min='10' Max='172' Avg='38' unit='mg/m3' />
+<Pollutant id='PM2.5' Min='22' Max='251' Avg='71' unit='µg/m3	' />
+<Pollutant id='O3' Min='4' Max='129' Avg='81' unit='µg/m3' />
+<Pollutant id='NO2' Min='20' Max='28' Avg='23' unit='µg/m3' />
+</Station>
+<Station id='City Railway Station - KSPCB' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='CO' Min='29' Max='122' Avg='65' unit='mg/m3' />
+<Pollutant id='SO2' Min='3' Max='11' Avg='8' unit='µg/m3' />
+<Pollutant id='PM10' Min='32' Max='111' Avg='69' unit='µg/m3' />
+<Pollutant id='NO2' Min='29' Max='70' Avg='48' unit='µg/m3' />
+</Station>
+<Station id='SaneguravaHalli - KSPCB' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='CO' Min='11' Max='40' Avg='25' unit='mg/m3' />
+<Pollutant id='SO2' Min='1' Max='2' Avg='1' unit='µg/m3' />
+<Pollutant id='PM10' Min='47' Max='85' Avg='61' unit='µg/m3' />
+<Pollutant id='NO2' Min='2' Max='28' Avg='14' unit='µg/m3' />
+</Station>
+</City> 
+</State> 
+<State id='Kerala'>
+<City id='Thiruvananthapuram'>
+<Station id='Plammoodu' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='NO2' Min='6' Max='26' Avg='11' unit='µg/m3' />
+<Pollutant id='PM10' Min='46' Max='95' Avg='63' unit='µg/m3' />
+<Pollutant id='O3' Min='7' Max='8' Avg='8' unit='µg/m3' />
+<Pollutant id='NH3' Min='1' Max='1' Avg='1' unit='µg/m3' />
+<Pollutant id='SO2' Min='3' Max='9' Avg='5' unit='µg/m3' />
+<Pollutant id='CO' Min='38' Max='69' Avg='49' unit='mg/m3' />
+<Pollutant id='PM2.5' Min='37' Max='83' Avg='51' unit='µg/m3	' />
+</Station>
+</City> 
+</State> 
+<State id='Maharashtra'>
+<City id='Aurangabad'>
+<Station id='More Chowk, Waluj - MPCB' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='NH3' Min='6' Max='15' Avg='11' unit='µg/m3	' />
+<Pollutant id='PM10' Min='11' Max='30' Avg='18' unit='µg/m3' />
+<Pollutant id='SO2' Min='1' Max='17' Avg='7' unit='µg/m3' />
+<Pollutant id='PM2.5' Min='10' Max='32' Avg='18' unit='µg/m3	' />
+<Pollutant id='NO2' Min='18' Max='64' Avg='30' unit='µg/m3' />
+<Pollutant id='CO' Min='10' Max='54' Avg='38' unit='mg/m3' />
+<Pollutant id='O3' Min='7' Max='48' Avg='24' unit='µg/m3' />
+</Station>
+</City> 
+<City id='Chandrapur'>
+<Station id='Chandrapur' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='NO2' Min='22' Max='24' Avg='23' unit='µg/m3' />
+<Pollutant id='PM10' Min='10' Max='52' Avg='31' unit='µg/m3' />
+<Pollutant id='O3' Min='11' Max='19' Avg='14' unit='µg/m3' />
+<Pollutant id='NH3' Min='9' Max='14' Avg='10' unit='µg/m3' />
+<Pollutant id='SO2' Min='9' Max='15' Avg='11' unit='µg/m3' />
+<Pollutant id='CO' Min='3' Max='30' Avg='23' unit='mg/m3' />
+<Pollutant id='PM2.5' Min='4' Max='40' Avg='23' unit='µg/m3	' />
+</Station>
+<Station id='MIDC Khutala - MPCB' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='SO2' Min='1' Max='15' Avg='8' unit='µg/m3' />
+<Pollutant id='PM10' Min='13' Max='48' Avg='30' unit='µg/m3' />
+<Pollutant id='CO' Min='64' Max='86' Avg='69' unit='mg/m3' />
+<Pollutant id='NH3' Min='1' Max='1' Avg='1' unit='mg/m3' />
+<Pollutant id='O3' Min='3' Max='55' Avg='40' unit='µg/m3' />
+<Pollutant id='PM2.5' Min='6' Max='38' Avg='17' unit='µg/m3	' />
+<Pollutant id='NO2' Min='1' Max='6' Avg='3' unit='µg/m3' />
+</Station>
+</City> 
+<City id='Mumbai'>
+<Station id='Bandra - MPCB' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='PM10' Min='24' Max='173' Avg='80' unit='µg/m3' />
+<Pollutant id='CO' Min='24' Max='92' Avg='52' unit='mg/m3' />
+<Pollutant id='NO2' Min='15' Max='25' Avg='19' unit='µg/m3' />
+<Pollutant id='PM2.5' Min='1' Max='113' Avg='66' unit='µg/m3	' />
+<Pollutant id='SO2' Min='19' Max='31' Avg='24' unit='µg/m3' />
+<Pollutant id='O3' Min='3' Max='31' Avg='10' unit='µg/m3' />
+</Station>
+</City> 
+<City id='Nagpur'>
+<Station id='Civil Lines - MPCB' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='CO' Min='10' Max='78' Avg='38' unit='mg/m3' />
+<Pollutant id='PM2.5' Min='10' Max='61' Avg='37' unit='µg/m3	' />
+<Pollutant id='NO2' Min='7' Max='21' Avg='12' unit='µg/m3' />
+<Pollutant id='SO2' Min='1' Max='6' Avg='3' unit='µg/m3' />
+<Pollutant id='PM10' Min='7' Max='45' Avg='28' unit='µg/m3' />
+<Pollutant id='O3' Min='8' Max='35' Avg='22' unit='µg/m3' />
+<Pollutant id='NH3' Min='1' Max='1' Avg='-1' unit='µg/m3' />
+</Station>
+</City> 
+<City id='Nashik'>
+<Station id='KTHM College - MPCB' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='NH3' Min='6' Max='10' Avg='8' unit='µg/m3' />
+<Pollutant id='PM2.5' Min='9' Max='42' Avg='23' unit='µg/m3	' />
+<Pollutant id='CO' Min='14' Max='57' Avg='34' unit='mg/m3' />
+<Pollutant id='PM10' Min='12' Max='39' Avg='27' unit='µg/m3' />
+<Pollutant id='SO2' Min='1' Max='20' Avg='4' unit='µg/m3' />
+<Pollutant id='O3' Min='10' Max='70' Avg='47' unit='µg/m3' />
+<Pollutant id='NO2' Min='22' Max='94' Avg='54' unit='µg/m3' />
+</Station>
+</City> 
+<City id='Navi Mumbai'>
+<Station id='Airoli - NMMC' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='SO2' Min='20' Max='43' Avg='28' unit='µg/m3' />
+<Pollutant id='PM10' Min='1' Max='105' Avg='56' unit='µg/m3' />
+<Pollutant id='CO' Min='62' Max='71' Avg='67' unit='mg/m3' />
+</Station>
+</City> 
+<City id='Pune'>
+<Station id='Karve Road Pune' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='PM10' Min='3' Max='80' Avg='43' unit='µg/m3' />
+<Pollutant id='CO' Min='69' Max='95' Avg='84' unit='mg/m3' />
+<Pollutant id='NO2' Min='11' Max='18' Avg='14' unit='µg/m3' />
+<Pollutant id='PM2.5' Min='8' Max='37' Avg='22' unit='µg/m3	' />
+<Pollutant id='SO2' Min='30' Max='35' Avg='33' unit='µg/m3' />
+<Pollutant id='O3' Min='8' Max='25' Avg='20' unit='µg/m3' />
+</Station>
+</City> 
+<City id='Solapur'>
+<Station id='Solapur - MPCB' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='PM2.5' Min='2' Max='117' Avg='31' unit='µg/m3	' />
+<Pollutant id='CO' Min='1' Max='56' Avg='42' unit='mg/m3' />
+<Pollutant id='O3' Min='56' Max='93' Avg='69' unit='µg/m3' />
+<Pollutant id='PM10' Min='12' Max='66' Avg='34' unit='µg/m3' />
+<Pollutant id='NO2' Min='17' Max='98' Avg='39' unit='µg/m3' />
+<Pollutant id='SO2' Min='29' Max='33' Avg='31' unit='µg/m3' />
+</Station>
+</City> 
+<City id='Thane'>
+<Station id='Pimpleshwar Mandir, Dombivali - MPCB' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='NH3' Min='11' Max='23' Avg='17' unit='µg/m3' />
+<Pollutant id='SO2' Min='7' Max='20' Avg='13' unit='µg/m3' />
+<Pollutant id='PM10' Min='46' Max='99' Avg='72' unit='µg/m3' />
+<Pollutant id='CO' Min='9' Max='166' Avg='43' unit='mg/m3' />
+<Pollutant id='PM2.5' Min='15' Max='57' Avg='41' unit='µg/m3	' />
+<Pollutant id='NO2' Min='18' Max='48' Avg='36' unit='µg/m3' />
+<Pollutant id='O3' Min='6' Max='71' Avg='26' unit='µg/m3' />
+</Station>
+</City> 
+</State> 
+<State id='Punjab'>
+<City id='Amritsar'>
+<Station id='Golden Temple - PPCB' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='NO2' Min='25' Max='77' Avg='37' unit='µg/m3' />
+<Pollutant id='PM10' Min='205' Max='417' Avg='284' unit='µg/m3' />
+<Pollutant id='O3' Min='8' Max='55' Avg='38' unit='µg/m3' />
+<Pollutant id='NH3' Min='8' Max='15' Avg='11' unit='µg/m3' />
+<Pollutant id='SO2' Min='2' Max='11' Avg='6' unit='µg/m3' />
+<Pollutant id='CO' Min='28' Max='101' Avg='36' unit='mg/m3' />
+<Pollutant id='PM2.5' Min='60' Max='402' Avg='202' unit='µg/m3	' />
+</Station>
+</City> 
+<City id='Ludhiana'>
+<Station id='Punjab Agricultural University - PPCB' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='NO2' Min='40' Max='130' Avg='61' unit='µg/m3' />
+<Pollutant id='O3' Min='1' Max='14' Avg='5' unit='µg/m3' />
+<Pollutant id='NH3' Min='8' Max='14' Avg='11' unit='µg/m3' />
+<Pollutant id='PM2.5' Min='174' Max='334' Avg='284' unit='µg/m3	' />
+<Pollutant id='CO' Min='29' Max='59' Avg='38' unit='mg/m3' />
+<Pollutant id='PM10' Min='181' Max='407' Avg='280' unit='µg/m3' />
+<Pollutant id='SO2' Min='1' Max='3' Avg='2' unit='µg/m3' />
+</Station>
+</City> 
+<City id='Mandi Gobindgarh'>
+<Station id='RIMT University - PPCB' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='PM2.5' Min='147' Max='319' Avg='-1' unit='µg/m3	' />
+<Pollutant id='NH3' Min='2' Max='8' Avg='-1' unit='µg/m3	' />
+<Pollutant id='SO2' Min='7' Max='16' Avg='-1' unit='µg/m3' />
+<Pollutant id='CO' Min='18' Max='60' Avg='41' unit='mg/m3' />
+<Pollutant id='NO2' Min='5' Max='23' Avg='-1' unit='µg/m3' />
+<Pollutant id='O3' Min='20' Max='41' Avg='-1' unit='µg/m3' />
+<Pollutant id='PM10' Min='118' Max='183' Avg='-1' unit='µg/m3' />
+</Station>
+</City> 
+</State> 
+<State id='Rajasthan'>
+<City id='Jaipur'>
+<Station id='Police Commissionerate - RSPCB' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='NH3' Min='13' Max='23' Avg='17' unit='µg/m3' />
+<Pollutant id='NO2' Min='47' Max='84' Avg='63' unit='µg/m3' />
+<Pollutant id='SO2' Min='7' Max='19' Avg='12' unit='µg/m3' />
+<Pollutant id='CO' Min='6' Max='28' Avg='13' unit='mg/m3' />
+<Pollutant id='PM10' Min='71' Max='175' Avg='129' unit='µg/m3' />
+<Pollutant id='PM2.5' Min='90' Max='318' Avg='214' unit='µg/m3	' />
+<Pollutant id='O3' Min='1' Max='2' Avg='1' unit='µg/m3' />
+</Station>
+</City> 
+<City id='Jodhpur'>
+<Station id='Collectorate Jodhpur - RSPCB' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='O3' Min='18' Max='152' Avg='61' unit='µg/m3' />
+<Pollutant id='CO' Min='6' Max='125' Avg='39' unit='mg/m3' />
+<Pollutant id='SO2' Min='1' Max='13' Avg='6' unit='µg/m3' />
+<Pollutant id='NO2' Min='11' Max='62' Avg='36' unit='µg/m3' />
+<Pollutant id='PM10' Min='168' Max='315' Avg='-1' unit='µg/m3' />
+<Pollutant id='PM2.5' Min='257' Max='362' Avg='-1' unit='µg/m3	' />
+</Station>
+</City> 
+</State> 
+<State id='Tamilnadu'>
+<City id='Chennai'>
+<Station id='Alandur Bus Depot' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='PM2.5' Min='11' Max='500' Avg='109' unit='µg/m3	' />
+<Pollutant id='NO2' Min='10' Max='29' Avg='22' unit='µg/m3' />
+<Pollutant id='O3' Min='12' Max='147' Avg='45' unit='µg/m3' />
+<Pollutant id='SO2' Min='1' Max='37' Avg='10' unit='µg/m3' />
+<Pollutant id='CO' Min='16' Max='68' Avg='54' unit='mg/m3' />
+</Station>
+<Station id='IIT' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='O3' Min='5' Max='106' Avg='63' unit='µg/m3' />
+<Pollutant id='NO2' Min='22' Max='71' Avg='36' unit='µg/m3' />
+<Pollutant id='CO' Min='16' Max='138' Avg='93' unit='mg/m3' />
+<Pollutant id='PM2.5' Min='25' Max='223' Avg='94' unit='µg/m3	' />
+<Pollutant id='SO2' Min='3' Max='6' Avg='4' unit='µg/m3' />
+</Station>
+<Station id='Manali' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='SO2' Min='2' Max='6' Avg='-1' unit='µg/m3' />
+<Pollutant id='PM2.5' Min='6' Max='61' Avg='-1' unit='µg/m3	' />
+<Pollutant id='NO2' Min='18' Max='22' Avg='-1' unit='µg/m3' />
+<Pollutant id='NH3' Min='25' Max='38' Avg='-1' unit='µg/m3' />
+<Pollutant id='CO' Min='11' Max='17' Avg='-1' unit='mg/m3' />
+</Station>
+</City> 
+</State> 
+<State id='Telengana'>
+<City id='Hyderabad'>
+<Station id='Sanathnagar' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='PM2.5' Min='12' Max='105' Avg='40' unit='µg/m3	' />
+<Pollutant id='NO2' Min='15' Max='83' Avg='37' unit='µg/m3' />
+<Pollutant id='O3' Min='4' Max='73' Avg='46' unit='µg/m3' />
+<Pollutant id='CO' Min='8' Max='82' Avg='32' unit='mg/m3' />
+<Pollutant id='SO2' Min='2' Max='14' Avg='7' unit='µg/m3' />
+</Station>
+<Station id='Zoo Park, Bahadurpura West' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='NH3' Min='2' Max='6' Avg='3' unit='µg/m3' />
+<Pollutant id='PM2.5' Min='12' Max='109' Avg='48' unit='µg/m3	' />
+<Pollutant id='CO' Min='2' Max='46' Avg='21' unit='mg/m3' />
+<Pollutant id='NO2' Min='10' Max='48' Avg='30' unit='µg/m3' />
+<Pollutant id='SO2' Min='4' Max='277' Avg='21' unit='µg/m3' />
+<Pollutant id='PM10' Min='16' Max='102' Avg='47' unit='µg/m3' />
+<Pollutant id='O3' Min='2' Max='115' Avg='73' unit='µg/m3' />
+</Station>
+<Station id='IDA Pashamylaram - TSPCB' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='SO2' Min='2' Max='9' Avg='4' unit='µg/m3' />
+<Pollutant id='CO' Min='11' Max='38' Avg='27' unit='mg/m3' />
+<Pollutant id='NO2' Min='5' Max='43' Avg='28' unit='µg/m3' />
+<Pollutant id='PM2.5' Min='6' Max='62' Avg='19' unit='µg/m3	' />
+<Pollutant id='O3' Min='19' Max='57' Avg='42' unit='µg/m3' />
+<Pollutant id='PM10' Min='6' Max='48' Avg='18' unit='µg/m3' />
+<Pollutant id='NH3' Min='1' Max='3' Avg='2' unit='µg/m3' />
+</Station>
+<Station id='Bollaram Industrial Area' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='SO2' Min='5' Max='140' Avg='-1' unit='µg/m3' />
+<Pollutant id='PM10' Min='8' Max='118' Avg='46' unit='µg/m3' />
+<Pollutant id='CO' Min='9' Max='25' Avg='16' unit='mg/m3' />
+<Pollutant id='NH3' Min='2' Max='5' Avg='3' unit='mg/m3' />
+<Pollutant id='PM2.5' Min='11' Max='79' Avg='41' unit='µg/m3	' />
+<Pollutant id='O3' Min='46' Max='233' Avg='66' unit='µg/m3' />
+<Pollutant id='NO2' Min='13' Max='33' Avg='23' unit='µg/m3' />
+</Station>
+<Station id='ICRISAT Patancheru' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='SO2' Min='4' Max='199' Avg='23' unit='µg/m3' />
+<Pollutant id='PM2.5' Min='3' Max='60' Avg='20' unit='µg/m3	' />
+<Pollutant id='O3' Min='8' Max='65' Avg='35' unit='µg/m3' />
+<Pollutant id='CO' Min='2' Max='91' Avg='30' unit='mg/m3' />
+<Pollutant id='NO2' Min='1' Max='27' Avg='14' unit='µg/m3' />
+<Pollutant id='PM10' Min='6' Max='72' Avg='20' unit='µg/m3' />
+<Pollutant id='NH3' Min='1' Max='2' Avg='1' unit='µg/m3' />
+</Station>
+<Station id='Central University' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='O3' Min='15' Max='271' Avg='53' unit='µg/m3' />
+<Pollutant id='CO' Min='2' Max='73' Avg='54' unit='mg/m3' />
+<Pollutant id='NO2' Min='7' Max='67' Avg='31' unit='µg/m3' />
+<Pollutant id='PM10' Min='7' Max='73' Avg='25' unit='µg/m3' />
+<Pollutant id='PM2.5' Min='2' Max='61' Avg='17' unit='µg/m3	' />
+<Pollutant id='NH3' Min='1' Max='4' Avg='2' unit='µg/m3	' />
+<Pollutant id='SO2' Min='1' Max='7' Avg='3' unit='µg/m3' />
+</Station>
+</City> 
+</State> 
+<State id='Uttar Pradesh'>
+<City id='Agra'>
+<Station id='Sanjay Palace' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='NO2' Min='32' Max='59' Avg='45' unit='µg/m3' />
+<Pollutant id='SO2' Min='1' Max='13' Avg='5' unit='µg/m3' />
+<Pollutant id='PM2.5' Min='72' Max='352' Avg='228' unit='µg/m3	' />
+<Pollutant id='CO' Min='30' Max='74' Avg='49' unit='mg/m3' />
+<Pollutant id='O3' Min='11' Max='14' Avg='12' unit='µg/m3' />
+</Station>
+</City> 
+<City id='Ghaziabad'>
+<Station id='Vasundhara - UPPCB' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='SO2' Min='19' Max='113' Avg='64' unit='µg/m3' />
+<Pollutant id='PM2.5' Min='85' Max='393' Avg='286' unit='µg/m3	' />
+<Pollutant id='NO2' Min='49' Max='130' Avg='91' unit='µg/m3' />
+<Pollutant id='NH3' Min='9' Max='13' Avg='11' unit='µg/m3' />
+<Pollutant id='CO' Min='56' Max='126' Avg='82' unit='mg/m3' />
+<Pollutant id='PM10' Min='125' Max='424' Avg='288' unit='µg/m3' />
+<Pollutant id='O3' Min='12' Max='57' Avg='40' unit='µg/m3' />
+</Station>
+</City> 
+<City id='Kanpur'>
+<Station id='Nehru Nagar' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='PM2.5' Min='69' Max='190' Avg='117' unit='µg/m3	' />
+<Pollutant id='NO2' Min='17' Max='54' Avg='32' unit='µg/m3' />
+<Pollutant id='O3' Min='5' Max='58' Avg='17' unit='µg/m3' />
+<Pollutant id='CO' Min='6' Max='101' Avg='35' unit='mg/m3' />
+<Pollutant id='SO2' Min='2' Max='132' Avg='8' unit='µg/m3' />
+</Station>
+</City> 
+<City id='Lucknow'>
+<Station id='Lalbagh, West Lucknow' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='NO2' Min='21' Max='93' Avg='50' unit='µg/m3' />
+<Pollutant id='CO' Min='13' Max='103' Avg='43' unit='mg/m3' />
+<Pollutant id='O3' Min='5' Max='56' Avg='32' unit='µg/m3' />
+<Pollutant id='SO2' Min='2' Max='6' Avg='4' unit='µg/m3' />
+<Pollutant id='PM2.5' Min='105' Max='242' Avg='173' unit='µg/m3	' />
+</Station>
+<Station id='Central School' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='O3' Min='9' Max='64' Avg='35' unit='µg/m3' />
+<Pollutant id='CO' Min='19' Max='105' Avg='33' unit='mg/m3' />
+<Pollutant id='SO2' Min='1' Max='10' Avg='5' unit='µg/m3' />
+<Pollutant id='NO2' Min='10' Max='228' Avg='41' unit='µg/m3' />
+<Pollutant id='PM2.5' Min='175' Max='338' Avg='222' unit='µg/m3	' />
+</Station>
+<Station id='Talkatora District Industries Center' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='NH3' Min='1' Max='4' Avg='2' unit='µg/m3	' />
+<Pollutant id='CO' Min='14' Max='87' Avg='51' unit='mg/m3' />
+<Pollutant id='SO2' Min='2' Max='68' Avg='15' unit='µg/m3' />
+<Pollutant id='PM2.5' Min='83' Max='319' Avg='238' unit='µg/m3	' />
+<Pollutant id='NO2' Min='22' Max='95' Avg='44' unit='µg/m3' />
+</Station>
+</City> 
+<City id='Moradabad'>
+<Station id='Lajpat Nagar' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='O3' Min='12' Max='317' Avg='108' unit='µg/m3' />
+<Pollutant id='PM10' Min='137' Max='425' Avg='230' unit='µg/m3' />
+<Pollutant id='PM2.5' Min='118' Max='462' Avg='302' unit='µg/m3	' />
+<Pollutant id='CO' Min='32' Max='103' Avg='57' unit='mg/m3' />
+<Pollutant id='NH3' Min='10' Max='14' Avg='12' unit='mg/m3' />
+<Pollutant id='SO2' Min='12' Max='121' Avg='47' unit='µg/m3' />
+<Pollutant id='NO2' Min='25' Max='122' Avg='72' unit='µg/m3' />
+</Station>
+</City> 
+<City id='NOIDA'>
+<Station id='Sector-125 - UPPCB' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='PM2.5' Min='98' Max='362' Avg='280' unit='µg/m3	' />
+<Pollutant id='O3' Min='5' Max='108' Avg='61' unit='µg/m3' />
+<Pollutant id='PM10' Min='145' Max='327' Avg='227' unit='µg/m3' />
+<Pollutant id='SO2' Min='22' Max='107' Avg='49' unit='µg/m3' />
+<Pollutant id='CO' Min='13' Max='95' Avg='39' unit='mg/m3' />
+<Pollutant id='NH3' Min='8' Max='26' Avg='17' unit='mg/m3' />
+<Pollutant id='NO2' Min='48' Max='156' Avg='-1' unit='µg/m3' />
+</Station>
+<Station id='Sector-62 - IMD' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='CO' Min='60' Max='63' Avg='61' unit='mg/m3' />
+<Pollutant id='O3' Min='35' Max='66' Avg='54' unit='µg/m3' />
+<Pollutant id='PM10' Min='20' Max='210' Avg='-1' unit='µg/m3' />
+<Pollutant id='NO2' Min='12' Max='17' Avg='14' unit='µg/m3' />
+<Pollutant id='PM2.5' Min='2' Max='328' Avg='-1' unit='µg/m3	' />
+</Station>
+</City> 
+<City id='Varanasi'>
+<Station id='Ardhali Bazar' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='O3' Min='5' Max='25' Avg='17' unit='µg/m3' />
+<Pollutant id='PM2.5' Min='28' Max='273' Avg='115' unit='µg/m3	' />
+<Pollutant id='SO2' Min='4' Max='15' Avg='9' unit='µg/m3' />
+<Pollutant id='NO2' Min='7' Max='54' Avg='27' unit='µg/m3' />
+<Pollutant id='CO' Min='7' Max='101' Avg='45' unit='mg/m3' />
+<Pollutant id='PM10' Min='58' Max='500' Avg='140' unit='µg/m3' />
+</Station>
+</City> 
+</State> 
+<State id='West Bengal'>
+<City id='Durgapur'>
+<Station id='Sidhu Kanhu Indoor Stadium - WBSPCB' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='O3' Min='2' Max='29' Avg='6' unit='µg/m3' />
+<Pollutant id='CO' Min='7' Max='80' Avg='44' unit='mg/m3' />
+<Pollutant id='NO2' Min='1' Max='40' Avg='20' unit='µg/m3' />
+<Pollutant id='SO2' Min='9' Max='194' Avg='54' unit='µg/m3' />
+<Pollutant id='PM10' Min='2' Max='500' Avg='-1' unit='µg/m3' />
+</Station>
+</City> 
+<City id='Haldia'>
+<Station id='Haldia - WBSPCB' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='CO' Min='10' Max='69' Avg='44' unit='mg/m3' />
+<Pollutant id='PM10' Min='4' Max='37' Avg='23' unit='µg/m3' />
+<Pollutant id='NO2' Min='5' Max='12' Avg='-1' unit='µg/m3' />
+<Pollutant id='SO2' Min='4' Max='56' Avg='21' unit='µg/m3' />
+<Pollutant id='O3' Min='7' Max='20' Avg='17' unit='µg/m3' />
+</Station>
+</City> 
+<City id='Howrah'>
+<Station id='Howrah' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='CO' Min='4' Max='35' Avg='12' unit='mg/m3' />
+<Pollutant id='SO2' Min='8' Max='19' Avg='13' unit='µg/m3' />
+<Pollutant id='PM10' Min='13' Max='317' Avg='68' unit='µg/m3' />
+<Pollutant id='NO2' Min='20' Max='54' Avg='37' unit='µg/m3' />
+</Station>
+</City> 
+<City id='Kolkata'>
+<Station id='Rabindra Bharati University - WBSPCB' lastupdate='10-10-2017 16:00:00'>
+<Pollutant id='PM10' Min='7' Max='54' Avg='34' unit='µg/m3' />
+<Pollutant id='NO2' Min='5' Max='38' Avg='29' unit='µg/m3' />
+<Pollutant id='O3' Min='5' Max='19' Avg='14' unit='µg/m3' />
+<Pollutant id='CO' Min='10' Max='30' Avg='21' unit='mg/m3' />
+<Pollutant id='SO2' Min='13' Max='23' Avg='20' unit='µg/m3' />
+</Station>
+</City> 
+</State> 
+</Country></AqIndex>
